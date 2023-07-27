@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/port-pwa/static/css/main.7b96d784.css",
+    "main.js": "/port-pwa/static/js/main.49b22fbd.js",
+    "static/js/787.64b197b2.chunk.js": "/port-pwa/static/js/787.64b197b2.chunk.js",
+    "index.html": "/port-pwa/index.html",
+    "main.7b96d784.css.map": "/port-pwa/static/css/main.7b96d784.css.map",
+    "main.49b22fbd.js.map": "/port-pwa/static/js/main.49b22fbd.js.map",
+    "787.64b197b2.chunk.js.map": "/port-pwa/static/js/787.64b197b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b96d784.css",
+    "static/js/main.49b22fbd.js"
+  ]
+}
